@@ -5,6 +5,7 @@ Certainly! Below is a sample README file that you can use for your GitHub reposi
 # Simon Game
 
 ![Simon Game](https://sabavat-jayanth-naik.github.io/Simon-game/)
+To play click on this [https://sabavat-jayanth-naik.github.io/Simon-game/]
 
 ## Description
 
